@@ -7,7 +7,7 @@ import fastcampus.part3.chapter6.databinding.ItemViewpagerBinding
 
 class ViewPagerViewHolder(
     binding : ItemViewpagerBinding
-): BindingViewHolder<fastcampus.part3.chapter6.databinding.ItemViewpagerBinding>(binding) {
+): BindingViewHolder<com.example.part3_chapter6.databinding.ItemViewpagerBinding>(binding) {
 
     private val adapter = ListAdapter()
 

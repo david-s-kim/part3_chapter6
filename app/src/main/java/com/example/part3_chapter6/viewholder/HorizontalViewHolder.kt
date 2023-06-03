@@ -7,7 +7,7 @@ import fastcampus.part3.chapter6.databinding.ItemHorizontalBinding
 
 class HorizontalViewHolder(
     private val binding : ItemHorizontalBinding
-) : BindingViewHolder<fastcampus.part3.chapter6.databinding.ItemHorizontalBinding>(binding){
+) : BindingViewHolder<com.example.part3_chapter6.databinding.ItemHorizontalBinding>(binding){
     private val adapter = ListAdapter()
 
     init {
