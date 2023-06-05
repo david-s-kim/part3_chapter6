@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
     private val viewModel : MainViewModel by viewModels()
 
-    private val adapter by lazy { PagingListAdapter() }
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

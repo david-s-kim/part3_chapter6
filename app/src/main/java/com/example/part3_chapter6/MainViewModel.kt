@@ -22,7 +22,7 @@ class MainViewModel @Inject constructor(
     val pagingData : StateFlow<PagingData<ListItem>?> = _pagingData
 
     init {
-
+        getList()
     }
 
     private fun getList() {
