@@ -2,7 +2,7 @@ package com.example.part3_chapter6.model
 
 import com.google.gson.annotations.SerializedName
 
-data class NetworkReponse(
+data class NetworkResponse(
     val success : Boolean,
     val code : Int,
     val message : String,

@@ -3,7 +3,7 @@ package com.example.part3_chapter6.viewholder
 import com.example.part3_chapter6.ListAdapter
 import com.example.part3_chapter6.model.Horizontal
 import com.example.part3_chapter6.model.ListItem
-import fastcampus.part3.chapter6.databinding.ItemHorizontalBinding
+import com.example.part3_chapter6.databinding.ItemHorizontalBinding
 
 class HorizontalViewHolder(
     private val binding : ItemHorizontalBinding

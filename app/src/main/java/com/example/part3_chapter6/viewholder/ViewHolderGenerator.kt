@@ -7,7 +7,7 @@ import androidx.viewbinding.ViewBinding
 import com.example.part3_chapter6.model.Image
 import com.example.part3_chapter6.model.Sale
 import com.example.part3_chapter6.model.ViewType
-import fastcampus.part3.chapter6.databinding.ItemEmptyBinding
+import com.example.part3_chapter6.databinding.ItemEmptyBinding
 
 object ViewHolderGenerator {
 
